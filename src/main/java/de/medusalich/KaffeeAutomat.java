@@ -1,5 +1,7 @@
 package de.medusalich;
 
+import de.medusalich.produkte.*;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;

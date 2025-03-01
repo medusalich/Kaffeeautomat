@@ -1,4 +1,4 @@
-package de.medusalich;
+package de.medusalich.produkte;
 
 public class Espresso extends Produkt {
     public Espresso() {

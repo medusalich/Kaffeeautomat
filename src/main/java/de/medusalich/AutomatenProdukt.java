@@ -1,5 +1,7 @@
 package de.medusalich;
 
+import de.medusalich.produkte.Produkt;
+
 /**
  * Repräsentiert ein Produkt im Kaffeeautomaten mit Preis und Verfügbarkeit.
  */

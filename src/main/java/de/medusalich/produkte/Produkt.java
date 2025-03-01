@@ -1,4 +1,4 @@
-package de.medusalich;
+package de.medusalich.produkte;
 
 /**
  * Repräsentiert ein Produkt mit einem Namen und einer Menge in Millilitern.
